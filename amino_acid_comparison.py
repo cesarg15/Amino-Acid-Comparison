@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 from scipy import stats
 
 #Insert fasta files here
-input_file1 = 'honey_bee_genome.fa'
-input_file2 = 'aphid_genome.fa'
+input_file1 = 
+input_file2 = 
 
 #This is the function that will do all of the counting of amino acids in the fasta files
 def count_amino_acid(input_file):
