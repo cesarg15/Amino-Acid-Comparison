@@ -42,6 +42,6 @@ This basically works to confirm that the sequences are being indexed in sets of 
 I make sure to do this for both rna sequences and populate their results into two separate dictionaries.
 I then run these same dictionaries through the same code used to create my bar graph to make sure that the data is being charted correctly.
 
-I have also supplied three fasta files which can be used with this code.
-These files were downloaded directly from https://ftp.ncbi.nih.gov/genomes/ .
-The three fasta files include genomes for; honey bee, aphid, and lettuce.
+The genome files were downloaded directly from https://ftp.ncbi.nih.gov/genomes/ .
+They are listed under the RNA/ folder for the species and are displayed as .fa files.
+The three fasta files that I used include genomes for; honey bee, aphid, and lettuce, but any should work just fine.
